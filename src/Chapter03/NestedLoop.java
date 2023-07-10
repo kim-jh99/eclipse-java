@@ -53,7 +53,9 @@ public class NestedLoop {
 			for(a = 0; a <= row - in; a++) System.out.print("*");
 			
 		System.out.println();
-			
+
+
+		
 		}
 		
 		
